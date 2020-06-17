@@ -22,7 +22,7 @@
 </template>
 <style>
 .NuxtLogo {
-  animation: 1s appear;
+  animation: 8s appear;   /* made it appear slowly */
   margin: auto;
 }
 
