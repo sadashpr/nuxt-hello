@@ -16,7 +16,7 @@
       />
     </g>
   <svg width="100" height="100">
-   <circle cx="50" cy="50" r="40" stroke="#2F495E" stroke-width="4" fill="#00C58E" />
+   <circle cx="50" cy="50" r="40" stroke="#2F495E" stroke-width="4" fill="#00C58E" />     <!-- copied color -->
 </svg>
 </svg>
 </template>
