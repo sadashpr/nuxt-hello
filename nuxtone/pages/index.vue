@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        proj_one
+        my website
       </h1>
       <h2 class="subtitle">
         Hello World. This is Pradeep Sadashiv
