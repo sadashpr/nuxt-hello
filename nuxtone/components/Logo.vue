@@ -15,7 +15,7 @@
         fill-rule="nonzero"
       />
     </g>
-  <svg width="100" height="100">
+  <svg width="130" height="130">
    <circle cx="50" cy="50" r="40" stroke="#2F495E" stroke-width="4" fill="#00C58E" />     <!-- copied color -->
 </svg>
 </svg>
